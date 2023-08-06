@@ -1,0 +1,90 @@
+@media screen and (max-width: 380px) {
+    .header{
+        justify-items: flex-start;
+    }
+
+    .main-barber{
+        width: 100%;
+        height: 100%;
+    }
+
+    .lg-text{
+        font-size: 30px;
+        width: auto;
+        margin-top: 100px
+    }
+
+    .three{
+        display: flex;
+        flex-direction: column;
+        padding-right: 10px;
+    }
+
+    .sm-text{
+        width: auto;
+        margin-left: 0;
+        margin-right: 0;
+        font-size: 20px;
+        margin-top: 250px;
+    }
+
+    .btn{
+        margin-top: 250px;
+        width: 300px;
+        height: 30px;
+        font-size: 8px;
+        left: 10%;
+    }
+
+    .contact-us{
+        flex-direction: column;
+        display: flex;
+        width: 300px;
+        align-items: center;
+        margin-left: 25px;
+    }
+
+    .three img{
+        padding-left: 24px;
+    }
+
+    .background2{
+        width: 100%;
+        height: 100%;
+    }
+
+    .contact{
+        width: 100%;
+    }
+
+    .kapsayici{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 10px;
+        margin-top: 10px;
+        grid-gap: 10px;
+    }
+
+            .box{
+                width: 270px;
+                height: 50px;
+    }
+
+    .ml-50px{
+        margin-left: 10px;
+    }
+
+    .box2{
+        width: 270px;
+        height: 50px;
+    }
+    
+    .ml-290px{
+        margin-left: 10px
+    }
+
+    .contact-text{
+        padding-top: 10px;
+    }
+}
